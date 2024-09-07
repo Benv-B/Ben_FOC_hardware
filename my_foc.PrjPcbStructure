@@ -1,0 +1,2 @@
+Record=TopLevelDocument|FileName=top.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=U_drive_circuit|SchDesignator=U_drive_circuit|FileName=drive_circuit.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=drive_circuit.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
